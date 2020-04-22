@@ -1,4 +1,4 @@
-# Teamwork-React
+# Teamwork-React [![Maintainability](https://api.codeclimate.com/v1/badges/e54891b4cdaa46395a81/maintainability)](https://codeclimate.com/github/paulzay/Teamwork-React/maintainability)
 
 Teamwork is an ​ internal social network for employees of an organization. The goal of this
 application is to facilitate more interaction between colleagues and promote team bonding.
